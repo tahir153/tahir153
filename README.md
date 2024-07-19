@@ -3,12 +3,12 @@
 
 <!-- Introduction -->
 
-Hi, AI enthusiasts! 👋 I'm Tahir Habib, a passionate Artificial Intelligence student with a keen interest in pushing the boundaries of innovation and exploring AI and technology. Welcome to my GitHub profile, where I share my thoughts, projects, and experiments in the exciting world of AI and beyond.
+Hi, AI enthusiasts! 👋 I'm Tahir Habib, a passionate Artificial Intelligence student interested in pushing the boundaries of innovation and exploring AI and technology. Welcome to my GitHub profile, where I share my thoughts, projects, and experiments in the exciting world of AI and beyond.
 
 <!-- About Me -->
 ## About Me
 
-- 🧠 Final year of pursuing a Bachelor's degree in Artificial Intelligence at "The Islamia University of Bahawalpur".
+- 🧠 Fresh Grad. in a Bachelor's in Artificial Intelligence at "The Islamia University of Bahawalpur". Batch (2020-2024) 
 - 🔬 Researching and experimenting with Generative AI technologies.
 - 🚀 Fascinated by the future of AI and beyond.
 
@@ -35,6 +35,7 @@ Here are some of my projects:
 - 🤖 **Anti Spoofing for Face Recognition:** Enhances security by detecting spoof attempts to ensure reliable face recognition technology.
 - 🥽 **Augmented Reality Application Python:** Augmented reality application for virtual animations and superimposing video.
 - 🛡️ **Theft Alerting System:** Real-time movement detection system that alerts users to unexpected movements with an audible alarm.
+- and more.
 
 <!-- Connect with Me -->
 ## Connect with Me
