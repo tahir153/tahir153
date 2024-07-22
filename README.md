@@ -47,11 +47,6 @@ Let's collaborate and explore the future together! You can connect with me on:
 
 Feel free to contact me if you share similar interests or wish to engage in enriching conversations about AI and technology. I am always delighted to connect with fellow enthusiasts and explore these fascinating topics together.
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <!-- Footer -->
 
 <p align="center">
